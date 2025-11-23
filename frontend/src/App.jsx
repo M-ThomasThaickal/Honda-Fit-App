@@ -1,5 +1,6 @@
 import './App.css'
 import BlogPost from './components/BlogPost'
+/*import image1 from './images/image1.jpg'*/
 
 function App() {
   
@@ -48,9 +49,41 @@ function App() {
       </section>
 
       <section className="blog-posts">
-        <h2>Blog Posts</h2>
-        <p>Coming soon...</p>
-        <BlogPost />
+        <BlogPost 
+          title="First Autocross"
+          date="October 24, 2025"
+          content=
+            "Addicting experience to say the least. Need to swap out my tires. The all-seasons
+            were understeering about 50% of an entire run. Did beat a 2nd gen miata though at
+            the shootout by an extra one-and-a-half car lengths(he gave me half a car length
+            head start). It's not mentioned how awesome people are though. Got a couple ride-alongs
+            and a guy even offered to sit with me because he also raced a Honda Fit. Met a helpful
+            guy with a souped up CRX. Can't wait to come back for another event, hopefully with
+            a new set of tires."
+        />
+        <BlogPost 
+          title="Second Autocross"
+          date="November 15, 2025"
+          content=
+            "Second autocross event. Got new tires after I shredded my Ascent Avid GTs.
+            Upsized to 205/50/15 from 175/65/15 and got ultra-high-performance tires(Continental ECS02).
+            Immediate difference when driving, you can feel the road a lot more, probably
+            due to the shorter sidewall but because of the added grip it feels a lot less
+            squirrel-y on the highway. Speaking of grip these things stick to the road like
+            super glue. Completely different driving experience. I don't ever want to
+            go back to regular all-seasons. The event itself was a lot better this time. At the
+            end I definitely felt like I could've gone faster if it weren't for my lack of skill.
+            I know what to improve on. Last autocross the tires held me back so much I didn't 
+            even know how I could have improved my driving. Would be nice to get stiffer springs
+            and maybe adjust camber up front. Still getting a decent amount of sidewall deflection
+            even at 42 psi hot up front. Upped to 45 psi for the last run but still felt like
+            I got a bit of deflection. Mentioned it in the previous blogpost but man are people
+            helpful and nice. I got a ride along promised to me be by the guy with the souped
+            up Honda Fit and he even offered to let me drive it. Met another person with a CRX, that
+            thing was fast. Also, won an award :)." 
+          /* add an image section to the blogpost component file? Max one per blog post makes
+             sense as a blog post template. */
+        />
       </section>
 
       <section className="maintenence-records">

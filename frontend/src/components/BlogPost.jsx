@@ -1,14 +1,14 @@
+import '../App.css'
 
-
-function BlogPost() {
+function BlogPost({title, date, content}) {
     return (
-        <article>
-            <h3>First Autocross</h3>
-            <p className="date">October 24, 2025</p>
-            <p>First autocross event... 
-                adding pictures soon...
-            </p>
-        </article>
+        <div class="text-box">
+            <article>
+                <h3>{title}</h3>
+                <p className="date">{date}</p>
+                <p>{content}</p>
+            </article>
+        </div>
     )
 }
 
