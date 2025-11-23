@@ -28,3 +28,9 @@ Auto cross page for auto cross results and notes
 Photo gallery for all the best pictures
 
 About me section?
+
+## Tech Stack
+- Frontend: React + Vite
+- Backend: Node.js + Express
+- Database: SQLite
+- Hosting: TBD
