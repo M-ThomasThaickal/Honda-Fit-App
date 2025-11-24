@@ -29,6 +29,9 @@ Photo gallery for all the best pictures
 
 About me section?
 
+## Fit To DO
+* Look at these links: https://www.fitfreak.net/forums/2nd-generation-ge8-specific-suspension-brakes-sub-forum/99462-another-swift-spring-review.html, https://www.fitfreak.net/forums/2nd-generation-ge8-specific-suspension-brakes-sub-forum/80455-buddy-club-extended-ball-joint-install.html: On lowering fit while restoring suspension geometry for improved handling, research more.
+
 ## Tech Stack
 - Frontend: React + Vite
 - Backend: Node.js + Express
