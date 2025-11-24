@@ -1,6 +1,6 @@
 # Honda-Fit-App
 
-Passion project made bu a Honda Fit lover. The goal for the web app is to be an all encompassing stop for any information about my 2012 base model Honda Fit. I want it to hold media, records, and blurbs of my thoughts about it. The most useful function will be the parts-finder, once its developed.
+Passion project made by a Honda Fit lover. The goal for the web app is to be an all encompassing stop for any information about my 2012 base model Honda Fit. I want it to hold media, records, and blurbs of my thoughts about it. The most useful function will be the parts-finder, once its developed.
 
 ## Feature List
 
