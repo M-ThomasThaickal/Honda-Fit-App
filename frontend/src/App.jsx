@@ -53,19 +53,19 @@ function App() {
           title="First Autocross"
           date="October 24, 2025"
           content=
-            "Addicting experience to say the least. Need to swap out my tires. The all-seasons
+            {`Addicting experience to say the least. Need to swap out my tires. The all-seasons
             were understeering about 50% of an entire run. Did beat a 2nd gen miata though at
             the shootout by an extra one-and-a-half car lengths(he gave me half a car length
             head start). It's not mentioned how awesome people are though. Got a couple ride-alongs
             and a guy even offered to sit with me because he also raced a Honda Fit. Met a helpful
             guy with a souped up CRX. Can't wait to come back for another event, hopefully with
-            a new set of tires."
+            a new set of tires.`}
         />
         <BlogPost 
           title="Second Autocross"
           date="November 15, 2025"
           content=
-            "Second autocross event. Got new tires after I shredded my Ascent Avid GTs.
+            {`Second autocross event. Got new tires after I shredded my Ascent Avid GTs.
             Upsized to 205/50/15 from 175/65/15 and got ultra-high-performance tires(Continental ECS02).
             Immediate difference when driving, you can feel the road a lot more, probably
             due to the shorter sidewall but because of the added grip it feels a lot less
@@ -80,7 +80,7 @@ function App() {
             I got a bit of deflection. Mentioned it in the previous blogpost but man are people
             helpful and nice. I got a ride along promised to me be by the guy with the souped
             up Honda Fit and he even offered to let me drive it. Met another person with a CRX, that
-            thing was fast. Also, won an award :)." 
+            thing was fast. Also, won an award :).`} 
           /* add an image section to the blogpost component file? Max one per blog post makes
              sense as a blog post template. */
         />
